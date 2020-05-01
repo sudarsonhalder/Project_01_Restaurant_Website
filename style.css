@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(80, 255, 173) ;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    }
+header{
+background-color: blue;
+height: 118px;
+}
+nav{
+background-color: red;
+height:40px ;
+}
+main {
+    background-color: orange;
+    height: 400px ;
+    }
+
+ footer {
+     background-color: greenyellow ;
+     height:100px ;
+     }
+
+
+  .logo{
+      width: 135px;
+      height: 82px;
+  }   
+
+
+
+
+
+
