@@ -8,9 +8,8 @@ Restaurant Website.
 * [Setup](#setup)
 
 ## General info
-This project is built using React JS.  
-This application helps the user to store the daily expenses.  
-Also the data is retained after the page is refreshed.
+This project is built using HTML and CSS.  
+This is a simple one page application.  
 
 ## Screenshots
  | ![Input Page](/output-images/hotel.png)|
