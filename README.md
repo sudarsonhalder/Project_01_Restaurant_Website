@@ -22,4 +22,4 @@ This is a simple one page application.
 
 ## Setup
 1.Clone the repository.  
-2.Run the command npm install.
+
